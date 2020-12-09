@@ -7,4 +7,5 @@ The second dashboard consists of different variants of a SIR (susceptible-infect
 
 	- SEIRD model (Exposed and Dead component with SIR)
         - Effect of lockdown, quarantines etc. on the spread of disease.
-        - A SIR forecasting model to study the time evolution of different 	populations and track various important parameters of disease 	        transmission in different countries.
+        - A SIR forecasting model to study the time evolution of different populations and track various important parameters of disease
+	transmission in different countries.
